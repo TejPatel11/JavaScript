@@ -142,6 +142,8 @@ const countOver20 = (personArray) => {
   }
   return retval;
 };
+
+//EX9
 const ex9 = () => {
   console.log(calculateTotal(array));
 };
@@ -167,6 +169,7 @@ const calculateTotal = (array) => {
   return total;
 };
 
+//EX10
 const ex10 = () =>{
     let usageData = [{ userId: 1111, minutes: 10.0 },
         { userId: 2222, minutes: 20.0 },
